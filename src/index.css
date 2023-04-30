@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  @font-face {
+
+  font-family: "xeare";
+  src: url("../public/fonts/xeare.ttf");}
