@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Bdead_alive%7D/static/css/main.6851f56c.css",
-    "main.js": "/%7Bdead_alive%7D/static/js/main.9b7a6ca9.js",
-    "static/media/Alive.png": "/%7Bdead_alive%7D/static/media/Alive.6b9cc8daf8c98c4bd8bc.png",
-    "static/media/xeare.ttf": "/%7Bdead_alive%7D/static/media/xeare.df2ced49b82739ad7fff.ttf",
-    "static/media/Dead.png": "/%7Bdead_alive%7D/static/media/Dead.0c5b83b94a3255f8d2f2.png",
-    "index.html": "/%7Bdead_alive%7D/index.html",
-    "main.6851f56c.css.map": "/%7Bdead_alive%7D/static/css/main.6851f56c.css.map",
-    "main.9b7a6ca9.js.map": "/%7Bdead_alive%7D/static/js/main.9b7a6ca9.js.map"
+    "main.css": "/dead_alive/static/css/main.4965eabf.css",
+    "main.js": "/dead_alive/static/js/main.ad17b368.js",
+    "static/media/Alive.png": "/dead_alive/static/media/Alive.6b9cc8daf8c98c4bd8bc.png",
+    "static/media/xeare.ttf": "/dead_alive/static/media/xeare.df2ced49b82739ad7fff.ttf",
+    "static/media/Dead.png": "/dead_alive/static/media/Dead.0c5b83b94a3255f8d2f2.png",
+    "index.html": "/dead_alive/index.html",
+    "main.4965eabf.css.map": "/dead_alive/static/css/main.4965eabf.css.map",
+    "main.ad17b368.js.map": "/dead_alive/static/js/main.ad17b368.js.map"
   },
   "entrypoints": [
-    "static/css/main.6851f56c.css",
-    "static/js/main.9b7a6ca9.js"
+    "static/css/main.4965eabf.css",
+    "static/js/main.ad17b368.js"
   ]
 }
