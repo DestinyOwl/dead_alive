@@ -2,7 +2,7 @@
   "name": "dead_alive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{DestinyOwl}.github.io/{dead_alive}",
+  "homepage": "http://DestinyOwl.github.io/dead_alive",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
